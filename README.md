@@ -32,7 +32,7 @@ Antes de comenzar, asegúrate de contar con:
 ### **1. Clonar el Repositorio**
 
 ```bash
-git clone 
+git clone https://github.com/TheRealVarpus/ChallengeForoHub.git
 cd ChallengeForoHub
 ```
 
